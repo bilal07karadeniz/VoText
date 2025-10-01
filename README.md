@@ -275,7 +275,9 @@ Content-Type: multipart/form-data
 
 ## 📝 Lisans
 
-MIT
+CC BY-NC 4.0 (Creative Commons Attribution-NonCommercial 4.0 International)
+
+Bu proje ticari olmayan kullanım için ücretsizdir. Ticari kullanım için lütfen benimle iletişime geçin.
 
 ## 👨‍💻 Geliştirici
 
