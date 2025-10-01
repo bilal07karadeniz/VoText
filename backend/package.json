@@ -1,0 +1,23 @@
+{
+  "name": "turkce-ses-yazi-backend",
+  "version": "1.0.0",
+  "description": "Türkçe Ses-Yazı Dönüştürücü Backend - Groq API ile ses dosyalarını metne çevirir ve PDF oluşturur",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["speech-to-text", "groq", "whisper", "turkish", "pdf"],
+  "author": "Bilal Karadeniz",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "multer": "^1.4.5-lts.1",
+    "groq-sdk": "^0.3.0",
+    "pdfkit": "^0.14.0",
+    "dotenv": "^16.4.1",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
